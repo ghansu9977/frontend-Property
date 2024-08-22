@@ -10,7 +10,7 @@ const Footer = () => {
             <p>
               © Copyright 2021 Space Dynamic Co. All Rights Reserved.
               <br />
-              Design: <a rel="nofollow" href="https://templatemo.com" target="_blank" rel="noopener noreferrer">TemplateMo</a>
+              Design: <a rel="nofollow" href="https://templatemo.com" target="_blank" >TemplateMo</a>
             </p>
           </div>
         </div>
